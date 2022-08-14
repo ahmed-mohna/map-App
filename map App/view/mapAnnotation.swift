@@ -15,7 +15,7 @@ struct mapAnnotation: View {
                 .scaledToFit()
                 .frame(width: 40, height: 40, alignment: .center)
                 
-            Image(systemName: "triangle.fill")
+            Image(systemName: "triangle")
                 .resizable()
                 .scaledToFit()
                 .frame(width: 30, height: 30, alignment: .center)
